@@ -78,17 +78,49 @@ Teacher asks a student (preferably a student in the front row) to get up and tak
 
 “Notice how I gave him/her about 2-3 directions to complete this task.” 
 
-“Now let’s try something different. **I am a robot.** Give me directions to do the same with the other piece of paper on the back wall.” Students will now give directions one at a time in order of where they are sitting. The teacher will follow the directions exactly as they are stated.
+“Now let’s try something different. **I am a robot** (my brain is a computer).  Give me directions to do the same with the other piece of paper on the back wall.” Students will now give directions one at a time in order of where they are sitting. The teacher will follow the directions exactly as they are stated.
 
-For example: If the direction is stated as “Turn right”, the teacher should spin in place clockwise until the next student tells them to “Stop.”
+For example: If the direction is stated as “Turn right”, the teacher should spin in place clockwise until the next student tells them to “Stop.” For each valid 'command', an assistant should write what was said on the board.
 
 ### Independent Practice ("You Do")
 
-Students then break up into groups of two, one human and one robot. The human in the group will provide directions to the robot, WITHOUT LOOKING, to draw a smiley face. The robot will then draw as it is instructed to. 
+Students then break up into groups of two, then each recieve a slip of paper they cannot show their partner. The paper contains a single easily-drawn concept. Each student takes a turn telling the other what to draw on a piece of paper, using only the following words: 
+- Shape names (circle, square, triangle, oval, etc)
+- Directions (up, down, left, right, etc)
+- Pencil movement ('pick up pencil', 'put down pencil')
+- number of inches ('four inches)
+- drawing weight ('thick', 'thin', 'medium')
+
+The other person then must draw this, WITHOUT LOOKING AT THE PAPER!
+
+Once both are completed, both students reveal their slip of paper ('data'), and discuss what worked and what didn't. What would be easy to draw this way with a perfect computer? What's hard to draw this way? What words did you wish you had been able to use?
+(Show footage of a 3d printer)
+
+Word slips:
+
+House
+Sun
+Moon
+Dog
+Cat
+Chair
+Bed
+Mouth
+Eyes
+Nose
+Book
+Flower
+Coffee Mug
+Light Bulb
+Snowman
+Fish
+
 
 ### Closing/Homework
 
-Today for homework you are going to complete a similar process that will be acted out in class tomorrow. Write directions, for a robot, to fold a paper airplane.
+Write a poem (it doesn't have to be long, but if it's short it has to be [good](https://www.poets.org/poetsorg/poem/red-wheelbarrow)).
+Now, how would you instruct a computer how to do this?
+THE BIG QUESTION: How is a poem like or unlike a program?
 
 ## After Class
 
